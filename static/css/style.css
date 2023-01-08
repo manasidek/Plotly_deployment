@@ -1,0 +1,50 @@
+body {
+  color: black;
+}
+
+.jumbotron {
+  color:whitesmoke;
+  background-image: url("../images/bac6.png");
+  background-size: 100% 100%;
+  text-align:center; 
+}
+
+.panel-primary >.panel-heading {
+  background-color: lavenderblush;
+  border-color: darkblue;
+  color: darkblue;
+  font-size: large;
+  
+}
+
+.panel-body {
+  background-color: lavenderblush;
+  color:maroon ;
+  font-size: medium; 
+  font-style: italic;
+}
+
+.test {
+  background-color: lavenderblush;
+  color:darkblue ;
+  border-color: darkblue;
+  text-align: center;
+  font-size: large;
+  font-style: italic;
+  font:bold;
+}
+.panel-title,.navbar-brand {
+  color:darkblue ;
+  text-align: center;
+  font-size: large;
+  font-style: italic;
+  font:bold;
+  
+}
+
+.well {
+  background-color: lavenderblush;
+  border-color: darkblue;
+  text-align: center;
+ }
+
