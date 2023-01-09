@@ -15,6 +15,8 @@
 - The link to the Script is: [index.html](https://github.com/manasidek/Plotly_deployment/blob/main/index.html
 )
 
+- The link to the javascript is: [charts.js](https://github.com/manasidek/Plotly_deployment/blob/main/static/js/charts.js)
+
 - Softwares: VS Code, Javascript, HTML and CSS
 
 - The Dashboard looks like the image below:
