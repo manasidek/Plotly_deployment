@@ -12,13 +12,14 @@
 
 ### Sources
 
-- The link to the Script is:
+- The link to the Script is: [index.html](https://github.com/manasidek/Plotly_deployment/blob/main/index.html
+)
 
 - Softwares: VS Code, Javascript, HTML and CSS
 
 - The Dashboard looks like the image below:
 
-![init_pgLoad]()
+![init_pgLoad](https://github.com/manasidek/Plotly_deployment/blob/main/static/images/init_pgLoad.png)
 
 
 - It loads the very first id information. From the dropdown menu, one can select the ID and view the bacteria data. The page shows visulazations in three different charts. 
@@ -27,7 +28,7 @@
 
 - Below is an image that display information when the ID is changed 
 
-![id_change]()
+![id_change](https://github.com/manasidek/Plotly_deployment/blob/main/static/images/id_change.png)
  
 
 
